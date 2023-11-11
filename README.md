@@ -1,16 +1,17 @@
-### Hi there 👋
+### Salut 👋
 
-<!--
-**salah-barkai/salah-barkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Salah Barkai, un ingénieur en systèmes informatiques, réseaux et sécurité, ainsi qu'un développeur web et mobile. 
 
-Here are some ideas to get you started:
+🔭 Actuellement à la recherche de nouvelles opportunités professionnelles.
+🌱 En constante évolution et apprentissage, notamment dans les domaines de HTML, CSS, JavaScript, Python, React.js, React Native, GitHub, Firebase, et les API.
+👯 Ouvert à la collaboration sur des projets passionnants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 N'hésitez pas à me contacter pour discuter de mes projets ou de mon parcours.
+📫 Vous pouvez me joindre via les liens suivants :
+   - [Twitter](https://twitter.com/@salah_sbk)
+   - [Facebook](https://www.facebook.com/saladine ahmat barkai)
+   - [LinkedIn](https://www.linkedin.com/saladine ahmat barkai)
+   - Email : salahbarkai12@gmail.com
+
+⚡ Fun fact: [😄]
+
