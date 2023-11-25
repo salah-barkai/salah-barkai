@@ -8,7 +8,7 @@ Je suis Salah Barkai, un ingénieur en systèmes informatiques, réseaux et séc
 
 💬 N'hésitez pas à me contacter pour discuter de mes projets ou de mon parcours.
 📫 Vous pouvez me joindre via les liens suivants :
-   - [Twitter](https://twitter.com/@salah_sbk)
+   - [Twitter](https://twitter.com/@salah_barkai)
    - [LinkedIn](https://www.linkedin.com/in/saladine-ahmat-barkai-0a6611226/)
    
 
